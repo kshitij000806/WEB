@@ -1,0 +1,115 @@
+.container {
+  background-color: black;
+}
+
+.block {
+  background-color: gray;
+  border: 10px solid black;
+  margin: 20px;
+  padding: 20px;
+}
+
+.content {
+  background-color: white;
+}
+
+h1 {
+  color: black;
+  font-family: verdana;
+  font-size: 60px;
+}
+
+table,
+th,
+td {
+  border: 3px solid black;
+}
+
+th,
+td {
+  text-align: center;
+}
+
+tr:nth-child(even) {
+  background-color: #eee;
+}
+
+tr:nth-child(odd) {
+  background-color: #fff;
+}
+
+th {
+  background-color: black;
+  color: whitesmoke;
+}
+
+dl1 {
+  font-size: 30px;
+  color: inherit;
+}
+
+li {
+  font-size: 30px;
+}
+
+dd {
+  text-align: end;
+}
+
+.note {
+  color: blue;
+  font-size: 60px;
+}
+
+.abc {
+  font-size: 50px;
+}
+
+.backgroundbody {
+  background-color: whitesmoke;
+}
+
+.red {
+  color: red;
+}
+
+.blue {
+  color: blue;
+}
+
+.pxblack10 {
+  border: 10px solid black;
+}
+
+.pxblack5 {
+  border: 5px solid black;
+}
+
+.white {
+  color: white;
+}
+
+.orange {
+  color: orange;
+}
+
+.navy {
+  color: navy;
+}
+
+.px20 {
+  font-size: 20px;
+}
+
+.end {
+  text-align: center;
+  background-color: black;
+  color: whitesmoke;
+  font-size: 40px;
+}
+
+.blackback {
+  background-color: black;
+  color: whitesmoke;
+  font-size: 60px;
+}
